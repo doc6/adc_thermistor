@@ -1,0 +1,736 @@
+Archive member included because of file (symbol)
+
+../liblcd.a(lcd.o)            ./adc.o (lcd_init)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+                              ./adc.o (__divmodhi4)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                              ./adc.o (__do_copy_data)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                              ../liblcd.a(lcd.o) (__do_clear_bss)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o)
+                              ./adc.o (__addsf3)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_mul_sf.o)
+                              ./adc.o (__mulsf3)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_div_sf.o)
+                              ./adc.o (__divsf3)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_si_to_sf.o)
+                              ./adc.o (__floatsisf)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_sf_to_si.o)
+                              ./adc.o (__fixsfsi)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o) (__clzhi2)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                              ./adc.o (snprintf)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o)
+                              ./adc.o (log)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__mulsf3x)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o) (vfprintf)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__addsf3x)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__fp_inf)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__fp_mpack)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__fp_nan)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__fp_powser)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_pscA)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_pscB)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_round.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o) (__fp_round)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_split3)
+c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                              c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_zero)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./adc.o
+LOAD ../liblcd.a
+LOAD c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
+LOAD c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1ada
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x00000068       0x5a c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o)
+ *(.progmem*)
+                0x000000c2                . = ALIGN (0x2)
+                0x000000c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+                0x000000c2                __ctors_end = .
+                0x000000c2                __dtors_start = .
+ *(.dtors)
+                0x000000c2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+                0x000000c2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c2        0xc c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000ce       0x16 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x000000ce                __do_copy_data
+ .init4         0x000000e4       0x10 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x000000e4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000f4        0x8 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000fc        0x4 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+                0x000000fc                __vector_22
+                0x000000fc                __vector_1
+                0x000000fc                __vector_24
+                0x000000fc                __vector_12
+                0x000000fc                __bad_interrupt
+                0x000000fc                __vector_6
+                0x000000fc                __vector_3
+                0x000000fc                __vector_23
+                0x000000fc                __vector_25
+                0x000000fc                __vector_11
+                0x000000fc                __vector_13
+                0x000000fc                __vector_17
+                0x000000fc                __vector_19
+                0x000000fc                __vector_7
+                0x000000fc                __vector_5
+                0x000000fc                __vector_4
+                0x000000fc                __vector_9
+                0x000000fc                __vector_2
+                0x000000fc                __vector_21
+                0x000000fc                __vector_15
+                0x000000fc                __vector_8
+                0x000000fc                __vector_14
+                0x000000fc                __vector_10
+                0x000000fc                __vector_16
+                0x000000fc                __vector_18
+                0x000000fc                __vector_20
+ .text          0x00000100        0x0 ./adc.o
+ .text          0x00000100      0x31e ../liblcd.a(lcd.o)
+                0x000001cc                lcd_init
+                0x000002ac                lcd_clear
+                0x000002bc                lcd_display
+                0x00000354                lcd_fputc
+ .text          0x0000041e        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000041e        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text          0x0000041e        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000041e        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000041e      0x35c c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o)
+                0x000006c2                __addsf3
+                0x0000071a                __subsf3
+ .text          0x0000077a      0x1ca c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_mul_sf.o)
+                0x0000077a                __mulsf3
+ .text          0x00000944      0x146 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_div_sf.o)
+                0x00000944                __divsf3
+ .text          0x00000a8a       0xb8 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_si_to_sf.o)
+                0x00000a8a                __floatsisf
+ .text          0x00000b42       0x9e c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_sf_to_si.o)
+                0x00000b42                __fixsfsi
+ .text          0x00000be0        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000be0        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000be0        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text          0x00000be0        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000be0        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .text          0x00000be0        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .text          0x00000be0      0x182 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_pack_sf.o)
+                0x00000be0                __pack_f
+ .text          0x00000d62       0xde c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_unpack_sf.o)
+                0x00000d62                __unpack_f
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .text          0x00000e40        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                0x00000e40                . = ALIGN (0x2)
+ *(.text.*)
+ .text.adc_init
+                0x00000e40       0x42 ./adc.o
+                0x00000e40                adc_init
+ .text.adc_read
+                0x00000e82       0x46 ./adc.o
+                0x00000e82                adc_read
+ .text.adcToTempC
+                0x00000ec8      0x138 ./adc.o
+                0x00000ec8                adcToTempC
+ .text.floatTostring
+                0x00001000       0xa8 ./adc.o
+                0x00001000                floatTostring
+ .text.startup.main
+                0x000010a8       0xaa ./adc.o
+                0x000010a8                main
+ .text.libgcc.mul
+                0x00001152        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00001152       0x28 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+                0x00001152                _div
+                0x00001152                __divmodhi4
+ .text.libgcc   0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000117a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000117a       0x28 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000117a                __udivmodhi4
+ .text.libgcc   0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x000011a2        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x000011a2       0x38 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                0x000011a2                __prologue_saves__
+ .text.libgcc.builtins
+                0x000011da        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x000011da        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x000011da        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x000011da        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x000011da        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x000011da       0x36 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000011da                __epilogue_restores__
+ .text.libgcc.builtins
+                0x00001210        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00001210        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00001210        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .text.libgcc.div
+                0x00001210        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .text.libgcc   0x00001210        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .text.libgcc.prologue
+                0x00001210        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .text.libgcc.builtins
+                0x00001210       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+                0x00001210                __clzsi2
+ .text.libgcc.fmul
+                0x00001222        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .text.libgcc.mul
+                0x00001222        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .text.libgcc.div
+                0x00001222        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .text.libgcc   0x00001222        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .text.libgcc.prologue
+                0x00001222        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .text.libgcc.builtins
+                0x00001222       0x24 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+                0x00001222                __clzhi2
+ .text.libgcc.fmul
+                0x00001246        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .text.avr-libc
+                0x00001246       0x7a c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                0x00001246                snprintf
+ .text.avr-libc.fplib
+                0x000012c0       0x8a c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o)
+                0x000012ca                log
+ .text.avr-libc.fplib
+                0x0000134a       0xc2 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+                0x0000135e                __mulsf3x
+                0x00001362                __mulsf3_pse
+ .text.avr-libc
+                0x0000140c      0x3ae c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x0000140c                vfprintf
+ .text.avr-libc
+                0x000017ba       0x16 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x000017ba                strnlen_P
+ .text.avr-libc
+                0x000017d0       0x16 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x000017d0                strnlen
+ .text.avr-libc
+                0x000017e6       0x6c c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x000017e6                fputc
+ .text.avr-libc
+                0x00001852       0xbc c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00001852                __ultoa_invert
+ .text.avr-libc.fplib
+                0x0000190e       0xc0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+                0x00001928                __addsf3x
+ .text.avr-libc.fplib
+                0x000019ce        0xc c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+                0x000019ce                __fp_inf
+ .text.avr-libc.fplib
+                0x000019da       0x1c c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                0x000019da                __fp_mpack
+                0x000019de                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x000019f6        0x6 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                0x000019f6                __fp_nan
+ .text.avr-libc.fplib
+                0x000019fc       0x4a c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+                0x000019fc                __fp_powser
+ .text.avr-libc.fplib
+                0x00001a46        0xe c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+                0x00001a46                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001a54        0xe c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+                0x00001a54                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001a62       0x22 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_round.o)
+                0x00001a62                __fp_round
+ .text.avr-libc.fplib
+                0x00001a84       0x44 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                0x00001a84                __fp_split3
+                0x00001a94                __fp_splitA
+ .text.avr-libc.fplib
+                0x00001ac8        0xe c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                0x00001ac8                __fp_zero
+                0x00001aca                __fp_szero
+                0x00001ad6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001ad6        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x00001ad6                _exit
+                0x00001ad6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001ad6        0x4 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001ada                _etext = .
+
+.data           0x00800100       0x2a load address 0x00001ada
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100        0x0 ./adc.o
+ .data          0x00800100        0x3 ../liblcd.a(lcd.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_thenan_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .data          0x00800103        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ *(.data*)
+ *(.rodata)
+ .rodata        0x00800103        0x8 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_thenan_sf.o)
+                0x00800103                __thenan_sf
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080010b       0x1e ./adc.o
+ *(.gnu.linkonce.d*)
+                0x0080012a                . = ALIGN (0x2)
+ *fill*         0x00800129        0x1 
+                0x0080012a                _edata = .
+                0x0080012a                PROVIDE (__data_end, .)
+
+.bss            0x0080012a        0x1
+                0x0080012a                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080012a        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x0080012a        0x0 ./adc.o
+ .bss           0x0080012a        0x1 ../liblcd.a(lcd.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_div_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clzhi2.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(log.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_powser.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .bss           0x0080012b        0x0 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ *(.bss*)
+ *(COMMON)
+                0x0080012b                PROVIDE (__bss_end, .)
+                0x00001ada                __data_load_start = LOADADDR (.data)
+                0x00001b04                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080012b        0x0
+                0x0080012b                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080012b                PROVIDE (__noinit_end, .)
+                0x0080012b                _end = .
+                0x0080012b                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x22
+ *(.comment)
+ .comment       0x00000000       0x11 ./adc.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x11 ../liblcd.a(lcd.o)
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_addsub_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_mul_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_div_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_si_to_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_sf_to_si.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_thenan_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_pack_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_unpack_sf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .comment       0x00000000       0x12 c:/users/dale/desktop/enel317/eclipse/eclipse/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(adc_thermistor.elf elf32-avr)
+LOAD linker stubs
